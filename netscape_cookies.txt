@@ -84,4 +84,4 @@ tiktok.com	TRUE	/	FALSE	0	msToken	tEanFg92iflUKsn7vn8jNrTtA3zTLDgg0FKRbP1L7Gdhst
 tiktok.com	TRUE	/	FALSE	0	last_login_method	google
 tiktok.com	TRUE	/	FALSE	0	tiktok_webapp_theme	light
 tiktok.com	TRUE	/	FALSE	0	tiktok_webapp_theme_source	auto
-tiktok.com	TRUE	/	FALSE	0	passport_fe_beating_status	true
+tiktok.com	TRUE	/	FALSE	0	passport_fe_beating_status	false
