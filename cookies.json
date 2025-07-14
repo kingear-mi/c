@@ -46,7 +46,7 @@
     "fr": "0CMBM7KA5UMWKI93v.AWcTLk_E7DXr4O4k2H5SO5fM9qpfGHnZByXJATeI3SgHB1k6b5o.BocsbI..AAA.0.0.Boc8jm.AWeEFpZsrLBnW20sDLF_jJ6eUqA",
     "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1752418551720%2C%22v%22%3A1%7D",
     "c_user": "100046429770087",
-    "xs": "10%3AIepmOJBY0AOVog%3A2%3A1752352457%3A-1%3A-1%3A%3AAcUW7q5uND0wTaniTCKWE5n8zNdQyxMpdcoYpPUrSME",
+    "xs": "10%3AIepmOJBY0AOVog%3A2%3A1752352457%3A-1%3A-1%3A%3AAcUmU2vNpC4_u_1qD4Ta4BThP1zaYj59foDUGdRKJxs",
     "dbln": "%7B%22100046429770087%22%3A%22mP6JcMJC%22%7D"
   },
   "facebook.com": {
@@ -57,7 +57,7 @@
     "presence": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1752418551720%2C%22v%22%3A1%7D",
     "wd": "1200x571",
     "c_user": "100046429770087",
-    "xs": "10%3AIepmOJBY0AOVog%3A2%3A1752352457%3A-1%3A-1%3A%3AAcUW7q5uND0wTaniTCKWE5n8zNdQyxMpdcoYpPUrSME",
+    "xs": "10%3AIepmOJBY0AOVog%3A2%3A1752352457%3A-1%3A-1%3A%3AAcUmU2vNpC4_u_1qD4Ta4BThP1zaYj59foDUGdRKJxs",
     "dbln": "%7B%22100046429770087%22%3A%22mP6JcMJC%22%7D"
   },
   "tiktok.com": {
@@ -86,11 +86,11 @@
     "tt_chain_token": "M/L7cyqiqvD5KyndVoKVhQ==",
     "uid_tt": "7b3af7cdf7f296db0df468e8694da60686a75541f2f37ab15b62a7034ae5b840",
     "uid_tt_ss": "7b3af7cdf7f296db0df468e8694da60686a75541f2f37ab15b62a7034ae5b840",
-    "ttwid": "1%7CVxsbpPlp3yfFtFkvTvrMAZqwF6m8aRkh6IIQO5ErtGA%7C1752438114%7C88b366d981c258f719b066a4eb93e4b233b87c1c519d5408b884ed920f22d12a",
     "msToken": "tEanFg92iflUKsn7vn8jNrTtA3zTLDgg0FKRbP1L7GdhstBZ0frRNeqSSXW0Ha6wIE30VbeV4PqWg_YbMFNgwDw6qAlhZxqqcdmCDn6rbd6OLlcM6O1wlcn3eIh2a6sLo-2rQxWYh9u7yo9Qaoepj18U",
+    "ttwid": "1%7CVxsbpPlp3yfFtFkvTvrMAZqwF6m8aRkh6IIQO5ErtGA%7C1752467678%7C0b1e2dcb6992364bd9ee013fc3945ed8d163df689c5a2f79ea50eb118a4c8783",
     "last_login_method": "google",
     "tiktok_webapp_theme": "light",
     "tiktok_webapp_theme_source": "auto",
-    "passport_fe_beating_status": "false"
+    "passport_fe_beating_status": "true"
   }
 }
