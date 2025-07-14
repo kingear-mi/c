@@ -18,11 +18,11 @@
     "__Secure-1PSID": "g.a000zAgkpoqv_ApGbvece-T2XmbHeIyGn2gM2nbH-5aJkAaNLpRm9VpoaSkRKZ5dIKhJwasikgACgYKAZcSARASFQHGX2MiaWFjlEWwTK1wZlXa7njX5hoVAUF8yKrngHHUbw7KTwNzzO1OK1gT0076",
     "__Secure-3PAPISID": "xUCP_us3_ni8RcJb/AtJvI3oFX2tjJ2ChK",
     "__Secure-3PSID": "g.a000zAgkpoqv_ApGbvece-T2XmbHeIyGn2gM2nbH-5aJkAaNLpRmdfNxpDxmt_AIzsEDO3pfzQACgYKAVUSARASFQHGX2MioMVTeIwzjzi3CdwWFhl-shoVAUF8yKqQQy-f_x3q1K9lJ1Nvj3po0076",
-    "__Secure-1PSIDTS": "sidts-CjIB5H03P6RLl3e6QcOdyreiRoWD2yM8g6f6HyCrrLu1ceeJk4_XXxCAT_2CKltbx36kyxAA",
-    "__Secure-3PSIDTS": "sidts-CjIB5H03P6RLl3e6QcOdyreiRoWD2yM8g6f6HyCrrLu1ceeJk4_XXxCAT_2CKltbx36kyxAA",
-    "SIDCC": "AKEyXzWVJzGM9HekGUZg6N2f0cBij06n0ebp6pPC7iABm_yXo_fdIFcJ4cw9raRSNq3Hirk0LO4",
-    "__Secure-1PSIDCC": "AKEyXzWtLd96vuT64r6EFdwSNyzF1dlbF2Q0HvqEeesbtNOPBqs-yPu7V43IQYuqba7aHBSBjw",
-    "__Secure-3PSIDCC": "AKEyXzX8HOPm0YFbNoEyQFvbvsVzBSPO9XLyJ-Ab-HOirPtLU_YPxLq-R4DkhVju4WFzml7Byg",
+    "__Secure-1PSIDTS": "sidts-CjIB5H03P7N2-l90haLNXPMoQDxAo15BcrQ_O54NISCmvMCaEteiimyNbzIzMYaqP9gTdRAA",
+    "__Secure-3PSIDTS": "sidts-CjIB5H03P7N2-l90haLNXPMoQDxAo15BcrQ_O54NISCmvMCaEteiimyNbzIzMYaqP9gTdRAA",
+    "SIDCC": "AKEyXzVRSoeekiu4bSN3xIbtIjYypyFRJPdx1-KI21BCFFPws4dER5Db4jkTHcdWx7TIs90PUr4",
+    "__Secure-1PSIDCC": "AKEyXzVFIFrFMKpm8soDv7QkOes_9CzmYAumGsXetV3QiBn8qYUsBZecWitUWxC0xZn6u9bl8g",
+    "__Secure-3PSIDCC": "AKEyXzX86xubuHgcQvNKWcc6c7LBVyQNATfvQiCVGK_xlZmEY2tzpVKkxJJsJFLea9kNG0XsGA",
     "__Secure-ENID": "28.SE=lh_HvNVoD_QKMnv6RU92q-uP64RtrDwQcQ6WcUbYoIIkmMJXAg1qejK0xf-bVqfUiVVYvmQieIY48NSYYh425lHUUyHa2CzErsYe10uxp0438C2P93IM0ycdZE5_jMfV147Br0oKHfAUa3hkkwkhMYjhtH6KS3oASaoW4Eim7A5J5hkwvDOzYs4oB4nfSWe0LLpNdXNlVU2fMLPUgGA714ryQZa991eKoyXUy0h65N24OCt0J_6MAwHicWdGsX-ha7up5KjQRk2tPSBd17bRpXYv7lSnsgx5Jkeo3gQ0ZdPOn-ZIH24HY8MB5KyecDwaghSskBYSwAvPP1-8JP0XoNhkbhcw4BoejQ",
     "LOGIN_INFO": "AFmmF2swRQIhANwsNrwFeJ8A_7XBJk4nYABdT4SgmxWkaJPTIh7xQ6-hAiBv1awT4P6t3t8PNd7DtWdkt2XMdki8-7R1zUcuGT7SQg:QUQ3MjNmeGVaczEyZ3oydU05UGVMQjJZTUtDWFUxcGpFeUpCck52RER5YnRvUlpJbUotWFpFVnhObVNwb01jMFVEZ2R1Yk5KS3NVRnhfRTUzMzAyeTBwSTcybzl2SGpUa09FOVVEMmxZcU5wV2VkSVlBTGdsSkZUVVY1UHBGM0J0R3pXWXJXTWpEbF9rWFcyLTlidlNxeGotSUhjMGJIZFdn",
     "YSC": "RbVRn6Lwuc8",
@@ -91,6 +91,6 @@
     "last_login_method": "google",
     "tiktok_webapp_theme": "light",
     "tiktok_webapp_theme_source": "auto",
-    "passport_fe_beating_status": "true"
+    "passport_fe_beating_status": "false"
   }
 }
