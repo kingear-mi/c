@@ -91,6 +91,6 @@
     "last_login_method": "google",
     "tiktok_webapp_theme": "light",
     "tiktok_webapp_theme_source": "auto",
-    "passport_fe_beating_status": "true"
+    "passport_fe_beating_status": "false"
   }
 }
