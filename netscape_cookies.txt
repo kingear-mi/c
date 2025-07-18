@@ -74,13 +74,13 @@ tiktok.com	TRUE	/	FALSE	0	tt-target-idc-sign	cEeTnblFNNLSt_s-EBOQUbcVcIJ31A6MXb0
 tiktok.com	TRUE	/	FALSE	0	uid_tt	7b3af7cdf7f296db0df468e8694da60686a75541f2f37ab15b62a7034ae5b840
 tiktok.com	TRUE	/	FALSE	0	uid_tt_ss	7b3af7cdf7f296db0df468e8694da60686a75541f2f37ab15b62a7034ae5b840
 tiktok.com	TRUE	/	FALSE	0	tt_chain_token	M/L7cyqiqvD5KyndVoKVhQ==
-tiktok.com	TRUE	/	FALSE	0	msToken	rGZkdqvOWGmlrbk9V3IEBU4zeSF7LKZ9cB76XFk6Uetk78_IkmPQUN1Qv0PDyoSGHTtoaZTCp05gfaCev2AxWJl1-S6QJ1VPu4S5pRLrZyINxEjdrweEuSP5c_s0duY_4y63QzlqLkpIBb82zl3jViJN
 tiktok.com	TRUE	/	FALSE	0	store-country-code	ua
 tiktok.com	TRUE	/	FALSE	0	store-country-code-src	uid
 tiktok.com	TRUE	/	FALSE	0	store-country-sign	MEIEDM3WyQpwLtrqKl5ztAQgoELBWQkrEV3rMufLSudcP2nk3CzHioW2r_7yHY6t3l0EED5s_TR7TjNvTjuZAniwfsk
 tiktok.com	TRUE	/	FALSE	0	store-idc	maliva
 tiktok.com	TRUE	/	FALSE	0	tt-target-idc	useast1a
 tiktok.com	TRUE	/	FALSE	0	ttwid	1%7CVxsbpPlp3yfFtFkvTvrMAZqwF6m8aRkh6IIQO5ErtGA%7C1752854291%7Cc118e1457cd72c9b5673d8dc37c76f9171a2816fb99620fce9a35abb059c3749
+tiktok.com	TRUE	/	FALSE	0	msToken	KZfQxztEbaV3gw4YJ7k8PVtv0llqq7BiQjdZt02GcsTUsj901rw3rHj46yzea4qVyv26PZGt1sfBPJIRSGe1KbnVJ6_diAscZUBq35UD7QkmN-rn4iL7NuWkGxGOkEe7X0Fz7xmkG5R0W-iUz245QoFt
 tiktok.com	TRUE	/	FALSE	0	last_login_method	google
 tiktok.com	TRUE	/	FALSE	0	tiktok_webapp_theme	light
 tiktok.com	TRUE	/	FALSE	0	tiktok_webapp_theme_source	auto
